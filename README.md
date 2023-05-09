@@ -37,13 +37,15 @@ Evaluate fairness and utility performance of GCN and credit dataset
 Evaluate fairness and utility performance of GCN and credit income
 
 ---Testing---
-The AUCROC of estimator: 0.7077
-Total Individual Unfairness: 2124.663330078125
-Individual Unfairness for Group 1: 0.0021269216667860746
-Individual Unfairness for Group 2: 0.0021285810507833958
-GD: 1.0007801810584913
+<p align="left"><i>
+  The AUCROC of estimator: 0.7077<br/>
+  Total Individual Unfairness: 2124.663330078125<br/>
+  Individual Unfairness for Group 1: 0.0021269216667860746<br/>
+  Individual Unfairness for Group 2: 0.0021285810507833958<br/>
+  GD: 1.0007801810584913<br/>
+</i></p> 
 
---model = {GIN, GCN}
+Model can be model = {GIN, GCN}
 
 ### Baselines
 We adapted base implementation from https://github.com/weihaosong/GUIDE.git and built our framework upon that. Baselines can be run from same link.
