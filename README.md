@@ -5,7 +5,17 @@
 pip install torch-geometric==2.0.1
 pip install aif360==0.3.0
 ```
+### Installing packages
+conda create --name ifgf python==3.7.11
+conda activate ifgf
 
+```
+conda install pytorch==1.10.0 cudatoolkit=11.7 -c pytorch -c conda-forge
+pip install torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu111.html
+pip install torch-sparse -f https://data.pyg.org/whl/torch-1.10.0+cu111.html
+pip install torch-geometric==2.0.1
+pip install aif360==0.3.0
+``
 
 ## 2. Datasets
 We ran our experiments on two datasets: credit and income. All the data are present in the './dataset' folder.
