@@ -37,4 +37,6 @@ Individual Unfairness for Group 1: 0.0021269216667860746
 Individual Unfairness for Group 2: 0.0021285810507833958
 GD: 1.0007801810584913
 
+--model = {GIN, GCN}
+
 ### For running baselines: https://github.com/weihaosong/GUIDE.git
