@@ -3,6 +3,8 @@
 cd code
 ```
 ### Installing packages
+Please run the following commands to install necessary packages.
+For more details on Pytorch Geometric please refer to install the PyTorch Geometric packages following the instructions from [here.](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
 ```
 conda create --name ifgf python==3.7.11
