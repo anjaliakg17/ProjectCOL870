@@ -1,11 +1,6 @@
 ## 1. Setup
 
 ### Installing packages
-```
-pip install torch-geometric==2.0.1
-pip install aif360==0.3.0
-```
-### Installing packages
 
 ```
 conda create --name ifgf python==3.7.11
