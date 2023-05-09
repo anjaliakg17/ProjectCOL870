@@ -1,5 +1,7 @@
 ## 1. Setup
-
+```
+cd code
+```
 ### Installing packages
 
 ```
