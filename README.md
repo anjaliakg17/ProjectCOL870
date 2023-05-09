@@ -15,7 +15,7 @@ pip install torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu111.html
 pip install torch-sparse -f https://data.pyg.org/whl/torch-1.10.0+cu111.html
 pip install torch-geometric==2.0.1
 pip install aif360==0.3.0
-``
+```
 
 ## 2. Datasets
 We ran our experiments on two datasets: credit and income. All the data are present in the './dataset' folder.
@@ -43,4 +43,5 @@ GD: 1.0007801810584913
 
 --model = {GIN, GCN}
 
-### We adapted base implementation from https://github.com/weihaosong/GUIDE.git and built our framework upon that. Baselines can be run from same link.
+## Baselines
+We adapted base implementation from https://github.com/weihaosong/GUIDE.git and built our framework upon that. Baselines can be run from same link.
