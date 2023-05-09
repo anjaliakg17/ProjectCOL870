@@ -27,11 +27,11 @@ Evaluate fairness and utility performance of GCN and credit dataset
 `python runmy_fairgnn.py --model gcn --dataset credit --alpha 5e-6 --beta 1 --seed 1`
 
 <p align="left"><i>
-  The AUCROC of estimator: 0.6807<\br>
-  Total Individual Unfairness: 1882.07421875<\br>
-  Individual Unfairness for Group 1: 0.0022303774021565914<\br>
-  Individual Unfairness for Group 2: 0.0022345229517668486<\br>
-  GD: 1.0018586762967778<\br>
+  The AUCROC of estimator: 0.6807<br/>
+  Total Individual Unfairness: 1882.07421875<br/>
+  Individual Unfairness for Group 1: 0.0022303774021565914<br/>
+  Individual Unfairness for Group 2: 0.0022345229517668486<br/>
+  GD: 1.0018586762967778<br/>
 </i></p> 
 
 Evaluate fairness and utility performance of GCN and credit income
