@@ -41,4 +41,4 @@ GD: 1.0007801810584913
 
 --model = {GIN, GCN}
 
-### We adapted base implementation from https://github.com/weihaosong/GUIDE.git and baselines can be run from same link.
+### We adapted base implementation from https://github.com/weihaosong/GUIDE.git and built our framework upon that. Baselines can be run from same link.
